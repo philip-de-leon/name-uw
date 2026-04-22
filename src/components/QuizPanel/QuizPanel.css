@@ -1,0 +1,7 @@
+.quiz-panel {
+    width: 25%;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.35);
+    align-self: flex-start; /* add this */
+  }

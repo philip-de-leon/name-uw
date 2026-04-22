@@ -17,6 +17,8 @@
   }
 }
 
+
+
 .hero {
   position: relative;
 
@@ -187,4 +189,56 @@ html, body, #root {
   height: 100%;
   margin: 0;
   padding: 0;
+  --uw-purple: #4b2e83;
+  --uw-gold: #b7a57a;
+}
+
+.app-overlay {
+  display: flex;
+  flex-direction: column;  /* stack navbar on top, content below */
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.app-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex: 1;
+  padding: 16px;
+  pointer-events: none;
+}
+
+.quiz-panel {
+  align-self: flex-start;
+  pointer-events: auto;
+}
+
+.guess-list-container {
+  align-self: flex-start;
+  width: 300px; /* adjust to your liking */
+  pointer-events: auto;
+  pointer-events: auto;
+}
+
+.app-overlay > * {
+  pointer-events: auto;
+}
+
+.app-overlay {
+  pointer-events: none;
+}
+
+.app-content {
+  pointer-events: none;
+}
+
+.quiz-panel,
+.nav-bar {          /* whatever your navbar class is */
+  pointer-events: auto;
 }

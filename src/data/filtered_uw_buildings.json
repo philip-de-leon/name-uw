@@ -1,0 +1,638 @@
+[
+  {
+    "FacName": "Aerospace and Engineering Research Building",
+    "Aliases": "Aerospace Building, Aerospace Engineering Building, Aerospace and Engineering Building",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Alder Hall",
+    "Aliases": "Alder",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Allen Library",
+    "Aliases": "Allen",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName":"Health Sciences Education Building",
+    "Aliases":"Health Sciences Building, Health Sciences Education",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName":"Graves Hall",
+    "Aliases":"Graves",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "Graves Annex"
+  },
+  {
+    "FacName":"Hec Edmundson Pavilion",
+    "Aliases":"Clarence Pavilion, Hec Edmunson Pavilion, Hec Edmunson, Hec Pavilion",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Anderson Hall",
+    "Aliases": "Anderson",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Architecture Hall",
+    "Aliases": "Arch Hall, Arch, Architecture Building",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Art Building",
+    "Aliases": "Art, Art Hall, Art Building",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Atmospheric Sciences-Geophysics Building",
+    "Aliases": "Atmospheric Sciences Building, Atmospheric Sciences, Geophysics Building",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Bagley Hall",
+    "Aliases": "Bagley",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Benson Hall",
+    "Aliases": "Benson",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Bill & Melinda Gates Center for Computer Science & Engineering",
+    "Aliases": "Bill & Melinda Gates Building, Bill and Melinda Gates Building, CSE2",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Bloedel Hall",
+    "Aliases": "Bloedel",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Burke Memorial-Washington State Museum",
+    "Aliases": "Burke Museum, Burke",
+    "DisplayPrefferedName": "Burke Museum",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Cedar East Apartments",
+    "Aliases": "Cedar Apartments, Cedar",
+    "DisplayPrefferedName": "Cedar Apartments",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Cedar West Apartments",
+    "Aliases": "Cedar Apartments, Cedar",
+    "DisplayPrefferedName": "Cedar Apartments",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Chemistry Building",
+    "Aliases": "Chem Building",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Chemistry Library Building",
+    "Aliases": "Chemistry Library, Chem Library",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Clark Hall",
+    "Aliases": "Clark",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Commodore-Duchess Apartments",
+    "Aliases": "Commodore Duchess Apartments, Commodore Apartments, Duchess Apartments, Commodore Duchess, Commodore",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Communications Building",
+    "Aliases": "Comunications",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Condon Hall",
+    "Aliases": "Condon",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Cunningham Hall",
+    "Aliases": "Cunningham",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "David C. Hall Building",
+    "Aliases": "David Hall, David",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Dempsey Hall",
+    "Aliases": "Dempsey",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Denny Hall",
+    "Aliases": "Denny",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Eagleson Hall",
+    "Aliases": "Eagleson",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Electrical and Computer Engineering Building",
+    "Aliases": "ECE Building, Electrical Engineering Building, EE Building, CE Building, Computer Engineering Building",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Elm Hall",
+    "Aliases": "Elm",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Engineering Annex",
+    "Aliases": "N/A",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Engineering Library",
+    "Aliases": "Eng Library",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Faye G. Allen Center for the Visual Arts",
+    "Aliases": "Visual Arts Center, Faye Allen Arts Center, Faye G Allen Center",
+    "DisplayPrefferedName": "Faye G. Allen Center of Visual Arts",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Fluke Hall",
+    "Aliases": "Fluke",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Founders Hall",
+    "Aliases": "Founders",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Gerberding Hall",
+    "Aliases": "Gerberding",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Gould Hall",
+    "Aliases": "Gould",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Gowen Hall",
+    "Aliases": "Gowen",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Guggenheim Annex",
+    "Aliases": "Guggenheim, Guggenheim Hall",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Guggenheim Hall",
+    "Aliases": "Guggenheim",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "Guggenheim Annex"
+  },
+  {
+    "FacName": "Guthrie Hall",
+    "Aliases": "Guthrie",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Hans Rosling Center for Population Health",
+    "Aliases": "Hans Rosling Center, Rosling Center, Pop Health Building, Pop Health",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Hansee Hall",
+    "Aliases": "Hansee",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Henderson Hall",
+    "Aliases": "Henderson",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Henry Art Gallery",
+    "Aliases": "Art Gallery",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Hitchcock Hall",
+    "Aliases": "Hitchcock",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Hutchinson Hall",
+    "Aliases": "Hutchinson",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Intellectual House",
+    "Aliases": "N/A",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Interdisciplinary Engineering Building",
+    "Aliases": "Interdisciiplinary Engineering",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Intramural Activities Building",
+    "Aliases": "IMA",
+    "DisplayPrefferedName": "IMA",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Johnson Hall",
+    "Aliases": "Johnson",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Kane Hall",
+    "Aliases": "Kane",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Kincaid Hall",
+    "Aliases": "Kincaid",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Kirsten Wind Tunnel",
+    "Aliases": "Kirsten Wind, Wind Tunnel, Kirsten Tunnel",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Lander Hall",
+    "Aliases": "Lander",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Lewis Hall",
+    "Aliases": "Lewis",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Life Sciences Building",
+    "Aliases": "Life Sciences",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "Life Sciences Greenhouse"
+  },
+  {
+    "FacName": "Loew Hall",
+    "Aliases": "Loew",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Maple Hall",
+    "Aliases": "Maple",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Marvin Oliver Hall",
+    "Aliases": "Oliver Hall, Willow Hall, Oliver, Willow",
+    "DisplayPrefferedName": "Oliver Hall",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Mary Gates Hall",
+    "Aliases": "Mary Gates",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "McCarty Hall",
+    "Aliases": "McCarty",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "McMahon Hall",
+    "Aliases": "McMahon",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Meany Hall",
+    "Aliases": "Meany",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Mechanical Engineering Building",
+    "Aliases": "Mech E Building, Mech Building",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Mercer Court Building A",
+    "Aliases": "Mercer Court, Mercer",
+    "DisplayPrefferedName": "Mercer Court",
+    "ChildBuildings": "Mercer Court Building B, Mercer Court Building C, Mercer Court Building D, Mercer Court Building E"
+  },
+  {
+    "FacName": "Miller Hall",
+    "Aliases": "Miller",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Molecular Engineering & Sciences Building",
+    "Aliases": "Molecular Engineering Building, Molecular Sciences Building",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "More Hall",
+    "Aliases": "More",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Music Building",
+    "Aliases": "Music Hall",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Nanoengineering & Sciences Building",
+    "Aliases": "Nanoengineering Building, Nanoscience Building, Nano Building, Nanoengineering and Sciences Building",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Nordheim Court 1",
+    "Aliases": "Nordheim Court, Nordheim",
+    "DisplayPrefferedName": "Nordheim Court",
+    "ChildBuildings": "Nordheim Court 2, Nordheim Court 3, Nordheim Court 4, Nordheim Court 5, Nordheim Court 6, Nordheim Court 7, Nordheim Court 8"
+  },
+  {
+    "FacName": "North Physics Laboratory Van de Graaff Accelerator",
+    "Aliases": "North Physics Laboratory, Physics Laboratory",
+    "DisplayPrefferedName": "North Physics Laboratory",
+    "ChildBuildings": "North Physics Laboratory Cyclotron Building, North Physics Laboratory Cyclotron Shop"
+  },
+  {
+    "FacName": "Oak Hall",
+    "Aliases": "Oak",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Odegaard Library",
+    "Aliases": "Odegaard, Ode",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "PACCAR Hall",
+    "Aliases": "PACCAR",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Padelford Hall",
+    "Aliases": "Padelford Hall, PDL",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Parrington Hall",
+    "Aliases": "Parrington",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Paul G. Allen Center for Computer Science & Engineering",
+    "Aliases": "Paul G. Allen, Paul G Allen, Paul Allen, Paul Allen Center, Allen Center, CSE Building, Computer Science Building",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Physics-Astronomy Auditorium",
+    "Aliases": "Auditorium, PA Auditorium, Phsyics Auditorium, Astronomy Auditorium, Physics Astronomy Auditorium, Physics and Astronomy Auditorium",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Physics-Astronomy Building",
+    "Aliases": "Physics Astronomy Building, Astronomy Building, Physics Building, Physics and Astronomy Building, Physcis & Astronomy Building, Astronomy and Physics Building, Astronomy & Physics Building",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "Physics-Astronomy Tower"
+  },
+  {
+    "FacName": "Poplar Hall",
+    "Aliases": "Poplar",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Power Plant",
+    "Aliases": "Plant",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "East Receiving Station, Plant Operations Annex 2, Plant Operations Annex 3, Plant Operations Annex 4, Plant Operations Annex 5, Plant Operations Annex 6, Plant Operations Building"
+  },
+  {
+    "FacName": "Raitt Hall",
+    "Aliases": "Raitt",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Roberts Hall",
+    "Aliases": "Roberts",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "Roberts Annex"
+  },
+  {
+    "FacName": "Samuel E. Kelly Ethnic Cultural Center",
+    "Aliases": "Ethnic Cultural Center, Cultural Center, Ethnic Center, Kelly Cultural Center, Kelly Ethnic Cultural Center, Samuel Kelly Cultural Center, Samuel Kelly Ethnic Cultural Center",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Savery Hall",
+    "Aliases": "Savery",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Schmitz Hall",
+    "Aliases": "Schmitz",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Sieg Building",
+    "Aliases": "Sieg",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Smith Hall",
+    "Aliases": "Smith",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Social Work/Speech and Hearing Sciences Building",
+    "Aliases": "Speech and Hearing Sciences Building, Speech Building, Hearing Building, Speech and Hearing Building, Social Work Building, Social Work and Speech and Hearing Sciences Building",
+    "DisplayPrefferedName": "Social Work & Speech and Hearing Sciences Building",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Stadium",
+    "Aliases": "Husky Stadium",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Stevens Court A",
+    "Aliases": "Stevens Court, Stevens",
+    "DisplayPrefferedName": "Stevens Court",
+    "ChildBuildings": "Stevens Court B, Stevens Court C, Stevens Court D, Stevens Court H, Stevens Court J, Stevens Court K, Stevens Court L, Stevens Court M"
+  },
+  {
+    "FacName": "Student Union Building",
+    "Aliases": "HUB, Husky Union Building, Union Building",
+    "DisplayPrefferedName": "Husky Union Building",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Suzzallo Library",
+    "Aliases": "Suzzallo, Suz, Harry Potter Library",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Terry Hall",
+    "Aliases": "Terry",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Thaddeus and Lois Spratlen Hall",
+    "Aliases": "Spratlen Hall, Madrona Hall, Spratlen, Madrona",
+    "DisplayPrefferedName": "Spratlen Hall",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Theodor Jacobsen Observatory",
+    "Aliases": "Theodor Observatory, Jacobsen Observatory, Theodor Jacobsen",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Thomson Hall",
+    "Aliases": "Thomson",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Transportation Services Building",
+    "Aliases": "Transporation Building",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "University of Washington Club (Faculty Center)",
+    "Aliases": "University of Washington Club, UW Club",
+    "DisplayPrefferedName": "University of Washington Club",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "UW Police Department",
+    "Aliases": "UW Police, Police Department",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Wilcox Hall",
+    "Aliases": "Wilcox",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "William H. Gates Hall",
+    "Aliases": "William H. Gates, William Gates Hall, William Gates",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "N/A"
+  },
+  {
+    "FacName": "Wilson Ceramic Laboratory",
+    "Aliases": "Wilson, Wilson Ceramic Building, Wilson Building",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "Wilson Annex"
+  },
+  {
+    "FacName": "Winkenwerder Forest Sciences Laboratory",
+    "Aliases": "Winkenwerder, Winkenwerder Hall, Winkenwerder Building, Winkenwerder Forest Sciences Building, Forest Sciences Building",
+    "DisplayPrefferedName": "N/A",
+    "ChildBuildings": "Winkenwerder Annex"
+  }
+]

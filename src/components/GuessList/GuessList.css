@@ -1,0 +1,32 @@
+.guess-list-container {
+  width: 100%;
+  max-height: 160px;
+  display: flex;
+  flex-direction: column; /* add this */
+  overflow-y: auto;
+  background: white;
+  border-radius: 8px;
+  padding: 8px 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+  font-size: 12px;
+  box-sizing: border-box;
+}
+  
+  .guess-list-header {
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #b7a57a; /* UW_GOLD */
+    margin-bottom: 4px;
+  }
+  
+  .guess-list-items {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .guess-list-item {
+    padding: 2px 0;
+    color: #4b2e83; /* UW_PURPLE */
+  }

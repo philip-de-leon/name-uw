@@ -1,0 +1,19 @@
+.search-input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px 14px;
+    border: none;
+    border-top: 2px solid transparent;
+    border-bottom: 1px solid #e5e7eb;
+    font-size: 14px;
+    outline: none;
+    transition: background 0.2s;
+    background: #fff;
+    color: #111;
+    display: block;
+  }
+  
+  .search-input--correct {
+    border-top-color: var(--uw-gold);
+    background: #f9f5e7;
+  }

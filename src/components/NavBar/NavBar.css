@@ -1,0 +1,33 @@
+.navbar {
+    background: var(--uw-purple);
+    padding: 10px 14px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .navbar-logo {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    background: var(--uw-gold);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--uw-purple);
+    flex-shrink: 0;
+  }
+  
+  .navbar-title {
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.2;
+  }
+  
+  .navbar-subtitle {
+    color: var(--uw-gold);
+    font-size: 11px;
+  }
